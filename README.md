@@ -39,7 +39,7 @@
 
 ### 📃 기술 스택
 
-![image](/uploads/9ba20fb403527634ae5d94eb31dc6148/image.png)
+![image](https://user-images.githubusercontent.com/39832802/92307427-76e2cd80-efd1-11ea-97ad-0ffe5a15e845.png)
 
 **BACKEND**
 
